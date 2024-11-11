@@ -51,7 +51,7 @@ These enhancements are optional and will not impact your overall assessment, but
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [GitHub API Documentation](https://docs.github.com/en/rest/search?apiVersion=2022-11-28#search-repositories)
-- In addition to the above documentation, you may use whatever tools you'd like, chatGPT, cursor, supermaven, stackoverflow, reddit, etc.
+- In addition to the above documentation, you may use whatever tools you'd like (LLMs, google, stackoverflow, etc...)
 
 ---
 This repo is setup with tailwindcss, but you may feel free to use whatever design systems you are comfortable with.
